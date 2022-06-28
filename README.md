@@ -4,7 +4,7 @@ Link: https://www.youtube.com/watch?v=xc4uOzlndAk
 
 # Problems
 
-    1. 
+    1. Error 401 with catching an API recipe
 
 # Solutions for a problems
 
