@@ -13,7 +13,7 @@ Link: https://www.youtube.com/watch?v=xc4uOzlndAk
 
 # Solutions for a problems
 
-    1. (Temporary solution) - copying API_KEY_PASS strict to the component; not getting it from ".env" file - CHECK THAT ISSUE LATER!!!
+    1. (Temporary solution) - copying API_KEY_PASS strict to the component; not getting it from ".env" file - CHECK THAT ISSUE LATER!!! {process.env.REACT_API_KEY_PASS}
 
 # What if's
 
